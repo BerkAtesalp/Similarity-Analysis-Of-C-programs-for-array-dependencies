@@ -24,4 +24,4 @@ requirements of my project are listed below:
 • The system shall create the AST Nodes successfully.
 • The system shall add the child nodes to parent nodes successfully.
 • The system shall update the match table successfully.
-• The system shall give the similarity of arrays in context of dimensions, types and indexes successfully
+• The system shall give the similarity of arrays in context of dimensions, types and indexes successfully
