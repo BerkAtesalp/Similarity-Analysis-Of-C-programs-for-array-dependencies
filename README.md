@@ -1,5 +1,5 @@
 # Similarity Analysis Of C programs for array dependencies
- Similarity Analysis of c programs using lex and yacc
+ Similarity Analysis of C programs using lex and yacc
 
 The starting point of this project is comparing the codes written by the students with a
 reference solution provided by educator. The comparison process should be extended beyond
